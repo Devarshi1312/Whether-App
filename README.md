@@ -24,7 +24,7 @@ A modern, responsive weather application built with React that provides real-tim
 
 ## Getting Started
 
-1. Clone the repository
+1. Clone the repository https://github.com/Devarshi1312/Whether-App.git
 ```bash
 git clone 
 ```
