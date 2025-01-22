@@ -1,6 +1,6 @@
 # Weather App
 
-A modern, responsive weather application built with React and TypeScript that provides real-time weather information using the OpenWeatherMap API.
+A modern, responsive weather application built with React that provides real-time weather information using the OpenWeatherMap API.
 
 ## Features
 
@@ -19,17 +19,14 @@ A modern, responsive weather application built with React and TypeScript that pr
 ## Tech Stack
 
 - React 18
-- TypeScript
-- Tailwind CSS
-- Vite
-- Lucide React for icons
-- OpenWeatherMap API
+- Material UI
+- Material UI-Icons
 
 ## Getting Started
 
 1. Clone the repository
 ```bash
-git clone [your-repo-url]
+git clone 
 ```
 
 2. Install dependencies
