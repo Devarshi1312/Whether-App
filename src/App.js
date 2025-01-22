@@ -40,7 +40,7 @@ function App() {
   const [error, setError] = useState("")
   const [searchHistory, setSearchHistory] = useState([])
 
-  const API_KEY = "88ebcfb987e23ec89feb07675dab0919"
+  const API_KEY = "Your API Key"
   const isMobile = useMediaQuery(theme.breakpoints.down("sm"))
 
   useEffect(() => {
